@@ -1,0 +1,15 @@
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/bin/Debug/net6.0/C_Sharp_Practices
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/bin/Debug/net6.0/C_Sharp_Practices.deps.json
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/bin/Debug/net6.0/C_Sharp_Practices.runtimeconfig.json
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/bin/Debug/net6.0/C_Sharp_Practices.dll
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/bin/Debug/net6.0/C_Sharp_Practices.pdb
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/obj/Debug/net6.0/C_Sharp_Practices.csproj.AssemblyReference.cache
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/obj/Debug/net6.0/C_Sharp_Practices.GeneratedMSBuildEditorConfig.editorconfig
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/obj/Debug/net6.0/C_Sharp_Practices.AssemblyInfoInputs.cache
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/obj/Debug/net6.0/C_Sharp_Practices.AssemblyInfo.cs
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/obj/Debug/net6.0/C_Sharp_Practices.csproj.CoreCompileInputs.cache
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/obj/Debug/net6.0/C_Sharp_Practices.dll
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/obj/Debug/net6.0/refint/C_Sharp_Practices.dll
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/obj/Debug/net6.0/C_Sharp_Practices.pdb
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/obj/Debug/net6.0/C_Sharp_Practices.genruntimeconfig.cache
+/home/gausalmunirtushar/Desktop/C_Sharp_Practices/obj/Debug/net6.0/ref/C_Sharp_Practices.dll
