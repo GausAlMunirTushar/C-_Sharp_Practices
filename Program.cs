@@ -1,15 +1,15 @@
 ﻿using System;
-
-namespace HelloWorld
-{
-  class Program
-  {
-    static void Main(string[] args)
+    namespace SumOfTwoNumbers
     {
-      Console.WriteLine("Hello World!");    
-    /* The code below will print the words Hello World
-    to the screen, and it is amazing */
-      Console.WriteLine("Hello World!"); 
+      class Program
+      {
+        static void Main(string[] args)
+        {
+          int a = 10;
+          int b = 20;
+          int sum = a + b;
+          Console.WriteLine("Sum of {0} and {1} is {2}", a, b, sum);
+        }
+      }
     }
-  }
-/*  */}
+/*  */
